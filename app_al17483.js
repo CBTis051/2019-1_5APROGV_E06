@@ -1,4 +1,4 @@
-var http = requiere('http');
+var http = require('http');
 http.createServer(function (req, res) {
     res.writeHead(200, {'content-type': 'application/json; charset=utf-8'});
 
