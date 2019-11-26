@@ -1,0 +1,23 @@
+{
+  "name": "2019-1_5aprogv_restserver_eq06",
+  "version": "1.0.0",
+  "description": "Equipo 06 del 5APROGV 2019-1",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CBTis051/2019-1_5APROGV_E06.git"
+  },
+  "author": "2019-1 5APROGV_E06",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CBTis051/2019-1_5APROGV_E06/issues"
+  },
+  "homepage": "https://github.com/CBTis051/2019-1_5APROGV_E06#readme"
+}
