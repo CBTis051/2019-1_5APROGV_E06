@@ -1,8 +1,12 @@
 {
   "name": "2019-1_5aprogv_restserver_eq06",
   "version": "1.0.0",
-  "description": "RestServer Equipo 06 del 5APROGV 2019-1",
-  "main": "app_al17575.js",
+  "description": "Equipo 06 del 5APROGV 2019-1",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
