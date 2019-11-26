@@ -1,0 +1,19 @@
+{
+  "name": "2019-1_5aprogv_restserver_eq06",
+  "version": "1.0.0",
+  "description": "RestServer Equipo 06 del 5APROGV 2019-1",
+  "main": "app_al17575.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CBTis051/2019-1_5APROGV_E06.git"
+  },
+  "author": "2019-1 5APROGV_E06",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CBTis051/2019-1_5APROGV_E06/issues"
+  },
+  "homepage": "https://github.com/CBTis051/2019-1_5APROGV_E06#readme"
+}
