@@ -1,5 +1,5 @@
 var http = require('http');
-http.createServer(function (res, res) {
+http.createServer(function (req, res) {
     res.writeHead(200, {'Content-Type': 'application/json; charset=utf-8'});
 
     var objeto = {
