@@ -6,7 +6,7 @@ http.createServer(function (req, res) {
         mensaje : 'Hola mundo Node JS Repo GIT - Osuna Tirado Juan Roman\n'
     };
 
-    var json = JSON.stringify(obejto);
+    var json = JSON.stringify(objeto);
 
     res.end(json);
 }).listen(8081);
